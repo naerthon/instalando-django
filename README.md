@@ -15,7 +15,7 @@
 </code>
 
 4 - Já no diretório que você deseja criar seu primeiro projeto, vamos agora criar um ambiente virtual:
-><p>>>>mkvirtualenv nome_da_env</p>
+><p>>>>mkvirtualenv "nome_da_env"</p>
 
 <h1>Links Relacionados</h1>
 <ul>
