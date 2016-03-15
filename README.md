@@ -1,4 +1,4 @@
-# instalando-django
+# Instalando django para Windows
 
 1 - Baixar a versão 3.4 do Python para seu sistema Windows no endereço:
 >https://www.python.org/downloads/release/python-342/
