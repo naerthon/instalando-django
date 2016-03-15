@@ -16,6 +16,15 @@
 
 4 - Já no diretório que você deseja criar seu primeiro projeto, vamos agora criar um ambiente virtual:
 ><p>>>> mkvirtualenv <code>nome_da_env</code></p>
+> E iniciamos a Env com o comando:
+><p>>>> workon <code>nome_da_env</code></p>
+
+5 - Agora vamos instalar o Python e o Django na versão que deseja. Com os comandos a seguir será instalado as versões mais recentes tanto do Python quanto do Django.
+
+><p>>>> pip install python</p>
+
+><p>>>> pip install django</p>
+
 
 <h1>Links Relacionados</h1>
 <ul>
