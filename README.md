@@ -21,9 +21,9 @@
 
 5 - Agora vamos instalar o Python e o Django na versão que deseja. Com os comandos a seguir será instalado as versões mais recentes tanto do Python quanto do Django.
 
-><p>>>> pip install python</p>
+><code><p>>>> pip install python</p></code>
 
-><p>>>> pip install django</p>
+><code><p>>>> pip install django</p></code>
 
 
 <h1>Links Relacionados</h1>
