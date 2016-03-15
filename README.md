@@ -15,11 +15,11 @@
 </code>
 
 4 - Já no diretório que você deseja criar seu primeiro projeto, vamos agora criar um ambiente virtual:
-><p>>>>mkvirtualenv "nome_da_env"</p>
+><p>>>>mkvirtualenv <code>nome_da_env</code></p>
 
 <h1>Links Relacionados</h1>
 <ul>
-  <li>https://pip.pypa.io/en/latest/installing/#install-pip</li>
-  <li>https://bootstrap.pypa.io/get-pip.py</li>
-  <li></li>
+  <li><code>Tutorial Pip:</code>https://pip.pypa.io/en/latest/installing/#install-pip</li>
+  <li><code>Arquivo Pip:</code>https://bootstrap.pypa.io/get-pip.py</li>
+  <li><code>Tutorial Virtualenvwrapper:</code>https://pypi.python.org/pypi/virtualenvwrapper-win</li>
 </ul>
