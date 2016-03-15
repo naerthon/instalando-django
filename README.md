@@ -14,11 +14,13 @@
 <code>Uma dica é que você crie um diretório em Documentos chamado de projetos ou algo parecido para organizar melhor seus projetos, e lá você segue para o próximo passo.
 </code>
 
-4 - 
+4 - Já no diretório que você deseja criar seu novo projeto vamos instalar um ambiente virtual:
+><p>>>> mkvirtualenv <nome_da_env></p>
 
 <h1>Links Relacionados</h1>
+Documentações:
 <ul>
-  <li>https://pip.pypa.io/en/latest/installing/#install-pip</li>
-  <li>https://bootstrap.pypa.io/get-pip.py</li>
-  <li></li>
+  <li><code>PIP</code>https://pip.pypa.io/en/latest/installing/#install-pip</li>
+  <li><code>Arquivo Pip</code>https://bootstrap.pypa.io/get-pip.py</li>
+  <li><code>Tutorial Virtualenvwrapper</code>https://pypi.python.org/pypi/virtualenvwrapper-win</li>
 </ul>
