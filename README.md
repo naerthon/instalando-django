@@ -25,6 +25,8 @@
 
 ><code>>>> pip install django</code>
 
+> Caso queira instalar outra versão do Django segue um exemplo:
+><code>>>> pip install django==1.6.5</code>
 
 <h1>Links Relacionados</h1>
 <ul>
